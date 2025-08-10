@@ -1,5 +1,8 @@
 # OPSC6312Demo1
 
+## URL to the github repository
+https://github.com/ST10398576/OPSC6312Demo1.git
+
 ## Build directory of the project
 
 <img width="704" height="925" alt="image" src="https://github.com/user-attachments/assets/c4d52459-a032-441c-a340-48ecb6ad861c" />
