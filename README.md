@@ -1,33 +1,35 @@
 # OPSC6312Demo1
 
-Build directory of the project
+## Build directory of the project
 
 <img width="704" height="925" alt="image" src="https://github.com/user-attachments/assets/c4d52459-a032-441c-a340-48ecb6ad861c" />
 
 
-PostFragment3
+## PostFragment3
 
 <img width="1185" height="974" alt="image" src="https://github.com/user-attachments/assets/2a91f237-ddb1-4ea2-a9bc-96fbe2152051" />
 
 <img width="1425" height="583" alt="image" src="https://github.com/user-attachments/assets/70d991b5-98dc-49b9-8d29-89573a4aecf0" />
 
 
-fragment_post3 UI with Button at bottom
+## fragment_post3 UI with Button at bottom
 
 <img width="1835" height="967" alt="image" src="https://github.com/user-attachments/assets/75191443-b74d-403f-b689-917aec6491c9" />
 
 
-JsonDisplayActivity
+## JsonDisplayActivity
 
 <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/103d7a34-b60e-45c4-bd52-84c20d629423" />
 
-activity_display_json
+## activity_display_json
 
 <img width="1877" height="974" alt="image" src="https://github.com/user-attachments/assets/f9ffec79-58cf-41e4-abcc-1065c3bb134d" />
 
 
-GitHub Actions Build screenshot
+## GitHub Actions Build screenshot
+
 <img width="1849" height="868" alt="image" src="https://github.com/user-attachments/assets/a53aec8e-f199-419a-87a0-e1e8c9f478e9" />
+
 
 ## Final Output
 
